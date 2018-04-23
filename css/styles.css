@@ -1,0 +1,75 @@
+
+#content {
+  float: bottom;
+  margin-top: inherit;
+  border: 2px solid black;
+  margin-bottom: inherit;
+}
+
+.gDiv {
+  /*border: 2px solid black;*/
+  height: 35px;
+  position: inherit;
+  margin-top: inherit;
+
+}
+
+.line {
+  border-bottom: 1px solid black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin-right: 10px;
+
+}
+
+#trying {
+  float: right;
+  border: none;
+  margin: inherit;
+  margin-top: 10px;;
+}
+
+#try {
+  color: red;
+  margin-top: inherit;
+  float: right;
+}
+
+input {
+  width: 20px;
+  height: 15px;
+  font-size: 15px;
+  text-align: center;
+}
+
+#check  {
+  float: left;
+}
+
+#answer {
+  width: 80px;
+  height: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#enteredWord {
+  display: block;
+  margin: auto;
+}
+
+#images {
+  border: 2px solid black;
+  margin-top: inherit;
+  margin-bottom: inherit;
+}
+
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
